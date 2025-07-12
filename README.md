@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenny</h1>
 <h3 align="center">A currently junior studying computer science at the Georgia Institute of Technology</h3>
 
-- 🔭 Recently worked as **a Software Developer Intern at FlightBridge**
+- 🔭 Recently worked as **a Software Developer Intern**
 
 - 🌱 I’m currently learning **.NET, C#, Vue.js, and SQL**
 
